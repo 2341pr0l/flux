@@ -1,1 +1,1 @@
-alert("gay stole fixing soon xd")
+alert("to install the update go to https://ghostbin.com/mKWc5")
