@@ -1,1 +1,1 @@
-alet("gay stole fixing soon xd")
+alert("gay stole fixing soon xd")
